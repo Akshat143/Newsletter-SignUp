@@ -1,6 +1,6 @@
 # Newsletter-SignUp-Page
 
-### This is a Newsletter-Signup Page.People can login in with your email address  and then host can send News to their Email.
+### This is a Newsletter-Signup Page.People can login in with their email address and then host can send News to their Email.
 
 ### https://stormy-thicket-86963.herokuapp.com/ 
 Use above URL for more information.
